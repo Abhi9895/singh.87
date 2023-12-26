@@ -1,2 +1,2 @@
-# singh.87
-for practice
+hie everyone 
+I have created this repo for practice 
